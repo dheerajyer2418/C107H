@@ -1,0 +1,7 @@
+C:\Users\HP>python D:/projects_vansh/module3/PROJ107/code.py
+level
+Level 1    0.751445
+Level 2    0.863281
+Level 3    0.698113
+Level 4    0.734694
+Name: attempt, dtype: float64
